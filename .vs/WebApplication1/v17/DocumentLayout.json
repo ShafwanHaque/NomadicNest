@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC911643-A1AD-4AA3-85E1-7A8ED8F71930}|BLL\\BLL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\bll\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC911643-A1AD-4AA3-85E1-7A8ED8F71930}|BLL\\BLL.csproj|solutionrelative:bll\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC911643-A1AD-4AA3-85E1-7A8ED8F71930}|BLL\\BLL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC911643-A1AD-4AA3-85E1-7A8ED8F71930}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\dal\\datafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|solutionrelative:dal\\datafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D88C8E-77C2-47EA-A8ED-6AD7200A9520}|WebApplication1\\NomadicNest.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D88C8E-77C2-47EA-A8ED-6AD7200A9520}|WebApplication1\\NomadicNest.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D88C8E-77C2-47EA-A8ED-6AD7200A9520}|WebApplication1\\NomadicNest.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\webapplication1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D88C8E-77C2-47EA-A8ED-6AD7200A9520}|WebApplication1\\NomadicNest.csproj|solutionrelative:webapplication1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\dal\\ef\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\dal\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC911643-A1AD-4AA3-85E1-7A8ED8F71930}|BLL\\BLL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\bll\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC911643-A1AD-4AA3-85E1-7A8ED8F71930}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC911643-A1AD-4AA3-85E1-7A8ED8F71930}|BLL\\BLL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\bll\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC911643-A1AD-4AA3-85E1-7A8ED8F71930}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\dal\\migrations\\202405150544079_dbproblem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405150544079_dbproblem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\dal\\migrations\\202405150527058_dbproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405150527058_dbproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\dal\\repos\\postrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70C5A51-3575-4AFD-80FA-D8CB306D522E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\postrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC911643-A1AD-4AA3-85E1-7A8ED8F71930}|BLL\\BLL.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\bll\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC911643-A1AD-4AA3-85E1-7A8ED8F71930}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D88C8E-77C2-47EA-A8ED-6AD7200A9520}|WebApplication1\\NomadicNest.csproj|c:\\users\\dell\\source\\repos\\nomadic_nest\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{01D88C8E-77C2-47EA-A8ED-6AD7200A9520}|WebApplication1\\NomadicNest.csproj|solutionrelative:webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:02:34.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:02:16.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:51:50.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\DataFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataFactory.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\DataFactory.cs",
+              "RelativeToolTip": "DAL\\DataFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:57:59.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\UMSContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\EF\\UMSContext.cs",
+              "RelativeToolTip": "DAL\\EF\\UMSContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:52:23.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\BLL\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\BLL\\Services\\PostService.cs",
+              "RelativeToolTip": "BLL\\Services\\PostService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:38:40.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA9wCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:30:35.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:28:41.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\EF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\EF\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\User.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:24:09.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\BLL\\DTOs\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\CommentDTO.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\BLL\\DTOs\\CommentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\CommentDTO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:22:12.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\BLL\\DTOs\\PostDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PostDTO.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\BLL\\DTOs\\PostDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PostDTO.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA0wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:16:36.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\EF\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\EF\\Models\\Post.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Post.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:11:01.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\WebApplication1\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\WebApplication1\\Controllers\\PostController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:42:22.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "202405150527058_dbProblem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\Migrations\\202405150527058_dbProblem.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405150527058_dbProblem.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\Migrations\\202405150527058_dbProblem.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405150527058_dbProblem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:27:11.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "202405150544079_dbProblem2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\Migrations\\202405150544079_dbProblem2.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405150544079_dbProblem2.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\Migrations\\202405150544079_dbProblem2.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405150544079_dbProblem2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:44:11.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PostRepo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\Repos\\PostRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\PostRepo.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\DAL\\Repos\\PostRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\PostRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:17:15.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\BLL\\DTOs\\ServiceDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ServiceDTO.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\BLL\\DTOs\\ServiceDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ServiceDTO.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:13:22.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\WebApplication1\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication1\\Web.config",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Nomadic_Nest\\WebApplication1\\Web.config",
+              "RelativeToolTip": "WebApplication1\\Web.config",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAC4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-15T03:02:30.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
